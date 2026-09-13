@@ -1,0 +1,6 @@
+{
+  "name": "ZuMarket - Marketplace de Mode Multi-Vendeurs",
+  "description": "Marketplace de mode épurée et moderne pour sacs, chaussures, colliers, vêtements et accessoires avec messagerie directe et commande WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
